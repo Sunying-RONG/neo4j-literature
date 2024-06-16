@@ -1,0 +1,2 @@
+output/ filter=lfs diff=lfs merge=lfs -text
+output/book_description_with_embeddings.csv filter=lfs diff=lfs merge=lfs -text
