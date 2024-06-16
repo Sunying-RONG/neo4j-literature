@@ -11,5 +11,5 @@ A part of nodes in Explore in Neo4j
 
 ## Text search using embeddings
 
-Code in `embedding-ada002.ipynb` use data from `cleandata.csv` to create embeddings of the combination of books' title and description, 
+Code in `embedding-ada002.ipynb` use data from `cleandata.csv` to create embeddings of the combination of books' authors, title, categories and description, 
 calculate **cosine_similarity** of input key words, return top_n similarity (most relevant) books.
